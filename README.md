@@ -62,9 +62,10 @@ I believe in continuous learning, building through hands-on experience, and turn
 
 ## 🐍 Contribution Snake
 
+
 <div align="center">
 
-![GitHub Snake](https://githubusercontent.com)
+![Snake animation](https://raw.githubusercontent.com/Huzaifa-Bubere/Huzaifa-Bubere/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
