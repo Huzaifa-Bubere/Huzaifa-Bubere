@@ -64,7 +64,7 @@ I believe in continuous learning, building through hands-on experience, and turn
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/ismaeeeelshaikh/ismaeeeelshaikh/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake](https://githubusercontent.com)
 
 </div>
 
